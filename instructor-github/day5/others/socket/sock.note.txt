@@ -1,0 +1,35 @@
+IPC
+
+ - pipes
+ - names pipes - FIFO (file)
+ - shared mem
+ - for IPC in the same 
+
+ - p1 from S1 to p2 in the S2
+
+   web b from client i ws in re-sys
+---------------------------------------
+  client -server - arch
+
+---------------------------
+  sockets 
+	client - sock ( in which server used to connect to client)
+	
+	server - sock (a client uses, to  connectto the server) 
+	google.com:80
+        ip-address is binded with socket 
+
+google.com
+	a, client sock infor
+	b, address(ip-addr, port)
+----------------------------------------------        
+TCP  - 
+	Stream
+UDP x 
+	Datagram
+
+
+
+
+
+

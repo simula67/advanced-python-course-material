@@ -1,0 +1,34 @@
+arithmetic
+    +, -, *, /, %, **
+    // floor division
+
+relational
+    >, >=, <, <=, ==, !=
+
+logical operator
+    and, or, not
+
+comparison operator
+  cmp
+
+membership test operator
+  in
+  not in
+
+range operator
+
+if else conditional operator
+syntax :
+    true-exp if test-condition else false-expression
+
+
+lambda operator: runtime functions
+    syntax:
+       lambda arg1, argn,...: expression
+
+
+
+
+
+
+

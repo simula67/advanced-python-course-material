@@ -1,0 +1,1 @@
+This contains all the course materials from the 'Advanced Python' course offered at HP from 22-26 June 2015

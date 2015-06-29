@@ -1,0 +1,5 @@
+2015-06-26 09:12:55,238:DEBUG:9982:debug message
+2015-06-26 09:12:55,238:INFO:9982:a note on information
+2015-06-26 09:12:55,238:WARNING:9982:warning note
+2015-06-26 09:12:55,238:ERROR:9982:error message
+2015-06-26 09:12:55,238:CRITICAL:9982:critical error

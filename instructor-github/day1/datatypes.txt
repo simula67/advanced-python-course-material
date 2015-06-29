@@ -1,0 +1,23 @@
+datatypes
+  - simple
+        -string
+            -regular string
+            -raw string
+            -doc string
+
+        -numberic
+            -int, long, float, complex
+
+        -None
+        -boolean
+
+        seq: string, list, tuple
+            indexing
+            slicing
+            iteration
+
+  - compound
+        -list
+        -dict
+        -tuple (read-only list)
+        -set

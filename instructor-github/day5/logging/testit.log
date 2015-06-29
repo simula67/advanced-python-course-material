@@ -1,0 +1,10 @@
+DEBUG:root:a sample mesg
+INFO:root:a sample mesg
+WARNING:root:a sample mesg
+ERROR:root:a sample mesg
+CRITICAL:root:a sample mesg
+DEBUG:root:a sample mesg
+INFO:root:a sample mesg
+WARNING:root:a sample mesg
+ERROR:root:a sample mesg
+CRITICAL:root:a sample mesg

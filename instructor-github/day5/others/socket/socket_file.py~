@@ -1,0 +1,17 @@
+import socket
+import os
+
+import sys
+s  = socket.socket(socket.AF_UNIX, socket.SOCK_RAW)
+
+print help(s.bind)
+s.bind('asock')
+
+
+print '/proc/'+str(os.getpid())+'/fd/'
+os.system('ls -l /proc/'+str(os.getpid())+'/fd/')
+while 1:
+    s.accept()
+    s[1].send(raw_input('Enter the data:'))
+s.close()
+

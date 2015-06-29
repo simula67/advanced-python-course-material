@@ -1,0 +1,12 @@
+2012-04-18 14:59:01,005 sam_log.py : a note for debug
+2012-04-18 14:59:01,005 sam_log.py : a note for info
+2012-04-18 14:59:01,005 sam_log.py : a note for warn
+2012-04-18 15:50:05,407 sam_log.py : a note for debug    -- from : root
+2012-04-18 15:50:05,407 sam_log.py : a note for info    -- from : root
+2012-04-18 15:50:05,407 sam_log.py : a note for warn    -- from : root
+2012-04-18 15:50:56,507 sam_log.py : a note for debug    -- from : root
+2012-04-18 15:50:56,507 sam_log.py : a note for info    -- from : root
+2012-04-18 15:50:56,507 sam_log.py : a note for warn    -- from : root
+2012-04-18 15:52:54,807 sam_log.py : a note for debug    -- from : colruyt sam_log.py
+2012-04-18 15:52:54,807 sam_log.py : a note for info    -- from : colruyt sam_log.py
+2012-04-18 15:52:54,807 sam_log.py : a note for warn    -- from : colruyt sam_log.py
